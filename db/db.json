@@ -1,0 +1,155 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "uname": "Ranjeet",
+      "upass": "vhanne",
+      "email": "ran123@gmail.com"
+    },
+    {
+      "uname": "Rakesh",
+      "upass": "Rakesh@123",
+      "email": "ra1234@.com",
+      "id": 2
+    },
+    {
+      "uname": "",
+      "upass": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "uname": "Tanu",
+      "upass": "tanu123",
+      "email": "tanu @.com",
+      "id": 4
+    },
+    {
+      "uname": "Tokiyo",
+      "upass": "tokiyo@123",
+      "email": "tooo@text.com",
+      "id": 5
+    },
+    {
+      "uname": "vihaan",
+      "upass": "vihan234",
+      "email": "vihaan@text.com",
+      "id": 6
+    },
+    {
+      "uname": "ghax",
+      "upass": "raljn",
+      "email": "ghs@123.com",
+      "id": 7
+    },
+    {
+      "uname": "Vihaan",
+      "upass": "45568",
+      "email": "vihaan@123gmail.com",
+      "id": 8
+    },
+    {
+      "uname": ",jvlgjb,",
+      "upass": "mnvjh",
+      "email": "mnvhj",
+      "id": 9
+    },
+    {
+      "uname": "kvbkv",
+      "upass": "kjnkfve",
+      "email": "kn fve",
+      "id": 10
+    },
+    {
+      "uname": "fjghkbjnm",
+      "upass": "465564153",
+      "email": "sgfhggjhb@gmail.com",
+      "id": 11
+    },
+    {
+      "uname": "bjhbjn, m",
+      "upass": "vjhb",
+      "email": "cvhgv",
+      "id": 12
+    },
+    {
+      "uname": "9oj97iu",
+      "upass": "nikuy",
+      "email": "nukyjh",
+      "id": 13
+    },
+    {
+      "uname": "Uday",
+      "upass": "Uday1234",
+      "email": "uday123@gmail.com",
+      "id": 14
+    },
+    {
+      "uname": "4tgtr",
+      "upass": "4g4tg4tg",
+      "email": "gt4tg",
+      "id": 15
+    },
+    {
+      "uname": "Suraj",
+      "upass": "Suraj@123",
+      "email": "suraj1234@gmail.com",
+      "id": 16
+    },
+    {
+      "uname": "Mauli ",
+      "upass": "mauli123",
+      "email": "mauli@123",
+      "id": 17
+    },
+    {
+      "uname": "adfsdf",
+      "upass": "dfsdfdfsdfd",
+      "email": "dfsdf",
+      "id": 18
+    },
+    {
+      "uname": "Ramesh",
+      "upass": "Ramesh@321",
+      "email": "Ramesh146@gmail.com",
+      "id": 19
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hurt",
+      "address": "Mumbai",
+      "rating": "3",
+      "email": "pizzahurt@text,com",
+      "id": 1
+    },
+    {
+      "name": "MaDonald",
+      "address": "Dheli",
+      "rating": "4.5",
+      "email": "mach@text,com",
+      "id": 2
+    },
+    {
+      "name": "W B Resto",
+      "address": "Noida",
+      "rating": 3.9,
+      "email": "wb@text,com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "XYG restro",
+      "address": "Mumbai",
+      "rating": 4.1,
+      "email": "xyz@text,com"
+    },
+    {
+      "id": 5,
+      "name": "Hurt",
+      "address": "Akluj",
+      "rating": 3.2,
+      "email": "hurt@text,com"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.navbar-brand {
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 14px 16px;
+  background-color: gold;
+}
+.navbar-brand:hover{
+  background-color: rgb(255, 94, 0);
+}
+h1{
+  padding-top: 20px;
+}
+.mr
+{
+  color: black;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.DownNav{
+  margin-left: 45em;
+}
+.mr:hover{
+  color:white;
+  background-color: dimgray;
+}
+.NavD{
+   margin:auto;
+   float: 50px;
+   color:black;
+   font-weight: bold;
+}
+input{
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-color: rgb(103, 151, 196);
+  border-width: 1px;
+  outline-color: #5240b6;
+}
+.footer{
+  color: white;
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(189, 117, 8);
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+}
+input:hover{
+  border: none;
+  border-bottom: 2px solid rgb(6, 131, 48);
+}
+input:focus{
+  outline-color: rgb(65, 29, 228);
+  outline-style: ridge;
+}
+.main{
+  display:block;
+  width: 100%;
+  height: 100%;
+}
+.container{
+  width:100vh;
+}
